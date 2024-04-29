@@ -1,7 +1,4 @@
-<div align='center'>
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=i%20am%20hyotaek)
-</div>
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=i%20am%20hyotaek)
 ### Hi there 👋 
 #### 아이디어 뱅크형 개발자에🐲 반가워🐲 
 <hr>
