@@ -1,18 +1,38 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=i%20am%20hyotaek)
 <div align='center'>
-  <h2>Hi there 👋</h2>
+	<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&text=i%20am%20hyotaek" alt="header">
+</div>   
+
+<br>
+<div align='center'>
+  <h3>Hi there 👋</h3>
   <h4>아이디어 뱅크형 개발자에🐲 반가워🐲</h4>
-
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyxor516)](https://solved.ac/gyxor516).	<img src="http://mazandi.herokuapp.com/api?handle=gyxor516&theme=warm"/>
-  
-  [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DIN-STUDIO&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIN-STUDIO&layout=compact)
-
-  <img  src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-  <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-  <img  src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <hr>
+  <br>
 </div>
 
+<div align='center'>
+	<div>
+		<h3>📚 My Stats 📚</h3>
+		<div>
+			<img width="50%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gyxor516" alt="Solved.ac 프로필">
+		</div>
+		<br>
+		<div>
+			<img src="https://github-readme-stats.vercel.app/api?username=DIN-STUDIO&show_icons=true&theme=default#gh-light-mode-only" alt="Anurag's GitHub stats-Light" width=50%>
+		</div>
+		<br>
+		<div>
+			<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIN-STUDIO&layout=compact" alt="Top Langs">
+		</div>
+		<br><br>
+		<div>	
+			<h3>🛠️ Tech Stack 🛠️</h3>
+			<img  src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+			<img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+			<img src="https://img.shields.io/badge/React Native-black?style=flat-square&logo=react&logoColor=61DAFB"/>
+			<img  src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+	</div>
+</div>
 
 <!--
 **DIN-STUDIO/DIN-STUDIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +48,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+	
