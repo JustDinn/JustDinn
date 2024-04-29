@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=i%20am%20hyotaek)
 <div align='center'>
   <h2>Hi there 👋</h2>
-  <h3>아이디어 뱅크형 개발자에🐲 반가워🐲</h3>
-  <hr>
+  <h4>아이디어 뱅크형 개발자에🐲 반가워🐲</h4>
 
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyxor516)](https://solved.ac/gyxor516).	<img src="http://mazandi.herokuapp.com/api?handle=gyxor516&theme=warm"/>
