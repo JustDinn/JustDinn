@@ -5,7 +5,8 @@
   #### 아이디어 뱅크형 개발자에🐲 반가워🐲 
   <hr>
 
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyxor516)](https://solved.ac/gyxor516).	<img src="http://mazandi.herokuapp.com/api?handle=gyxor516&theme=warm"/>
+  [![Solved.ac
+  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyxor516)](https://solved.ac/gyxor516).	<img src="http://mazandi.herokuapp.com/api?handle=gyxor516&theme=warm"/>
 
   [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DIN-STUDIO&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIN-STUDIO&layout=compact)
 
