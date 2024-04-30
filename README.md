@@ -1,5 +1,5 @@
 <div align='center'>
-	<img src="https://capsule-render.vercel.app/api?type=venom&color=#f7c520text=i%20am%20hyotaek" alt="header">
+	<img src="https://capsule-render.vercel.app/api?height=150&type=venom&color=FFD159&text=i%20am%20hyotaek" alt="header">
 </div>   
 
 <br>
@@ -9,7 +9,6 @@
   <hr>
   <br>
 </div>
-
 <div align='center'>
 	<div>
 		<h3>🏆 My Stats 🏆</h3>
@@ -48,4 +47,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-	
