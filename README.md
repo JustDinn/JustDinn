@@ -1,5 +1,5 @@
 <div align='center'>
-	<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&text=i%20am%20hyotaek" alt="header">
+	<img src="https://capsule-render.vercel.app/api?type=venom&color=f7ed20text=i%20am%20hyotaek" alt="header">
 </div>   
 
 <br>
@@ -12,7 +12,7 @@
 
 <div align='center'>
 	<div>
-		<h3>📚 My Stats 📚</h3>
+		<h3>🏆 My Stats 🏆</h3>
 		<div>
 			<img width="50%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gyxor516" alt="Solved.ac 프로필">
 		</div>
