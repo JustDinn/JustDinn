@@ -30,7 +30,7 @@
 		<br><br>
 		<div>	
 			<h3>📖 Studying 📖</h3>
-			<a href="https://www.notion.so/iOS-Study-7c002c03331642be837147271d15682c?pvs=4">
+			<a href="https://tidal-xenon-8d1.notion.site/iOS-Study-7c002c03331642be837147271d15682c?pvs=4">
     				<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   			</a>
 			<br>
