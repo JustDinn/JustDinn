@@ -10,9 +10,6 @@
 	  저의 목표는 좋은 아이디어를 가진 팀원들과 만나 즐겁게 개발하며 성장하는 것입니다.<br>
 	  언제나 팀원 제안은 환영입니다🤗
   </h4>
-  <a href="https://www.notion.so/iOS-Study-7c002c03331642be837147271d15682c?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-  </a>
   <hr>
   <br>
 </div>
@@ -32,6 +29,11 @@
 		</div>
 		<br><br>
 		<div>	
+			<h3>📖 Studying 📖</h3>
+			<a href="https://www.notion.so/iOS-Study-7c002c03331642be837147271d15682c?pvs=4">
+    				<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  			</a>
+			<br>
 			<h3>🛠️ Tech Stack 🛠️</h3>
 			<img  src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
 			<img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
