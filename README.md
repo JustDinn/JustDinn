@@ -5,7 +5,12 @@
 <br>
 <div align='center'>
   <h3>Hi there 👋</h3>
-  <h4>아이디어 뱅크형 개발자에🐲 반가워🐲</h4>
+  <h4>
+	  느리더라도 꾸준히 성장하고 있는 거북이형 주니어 iOS 개발자입니다🐢<br>
+	  저의 목표는 좋은 아이디어를 가진 팀원들과 만나 즐겁게 개발하며 성장하는 것입니다.<br>
+	  언제나 팀원 제안은 환영입니다🤗
+  </h4>
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link={https://www.notion.so/iOS-Study-7c002c03331642be837147271d15682c?pvs=4})]({https://www.notion.so/iOS-Study-7c002c03331642be837147271d15682c?pvs=4})
   <hr>
   <br>
 </div>
