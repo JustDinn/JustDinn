@@ -36,8 +36,8 @@
 			<br>
 			<h3>🛠️ Tech Stack 🛠️</h3>
 			<img  src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-			<img src="https://img.shields.io/badge/RxSwift-5.0.1-blue" alt="RxSwift">
-			<img src="https://img.shields.io/badge/ReactorKit-3.0.0-brightgreen" alt="ReactorKit">
+			<img src="https://img.shields.io/badge/RxSwift-blue?style=flat-square&logo=reactivex&logoColor=white" alt="RxSwift">
+			<img src="https://img.shields.io/badge/ReactorKit-brightgreen?style=flat-square&logo=apple&logoColor=white" alt="ReactorKit">
 			<br>
 			<img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 			<img src="https://img.shields.io/badge/React Native-black?style=flat-square&logo=react&logoColor=61DAFB"/>
