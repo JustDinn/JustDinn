@@ -8,7 +8,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> Collaboration Tools
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,postman,figma,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,figma,git,postman,discord)](https://skillicons.dev)
 
 ### <img src="Assets/Writing Hand Light Skin Tone.png" width="30"> Blog
 
