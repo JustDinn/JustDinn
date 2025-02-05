@@ -20,4 +20,4 @@
 - 생생한 향수 정보 제공 서비스, [ [향모아](https://github.com/HMOAA/HMOA_iOS)] 개발 2024.07 ~ 
 - AI 기반 가족 소통 유도 서비스, [ [한 걸음](https://github.com/ForOneStep)] 개발 🏆 2023.09 ~ 2023.12
 
-<img width="25%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gyxor516" alt="Solved.ac 프로필">
+<img width="35%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gyxor516" alt="Solved.ac 프로필">
