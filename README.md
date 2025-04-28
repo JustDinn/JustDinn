@@ -17,5 +17,5 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Activities
 
 - 학식 평점 커뮤니티 서비스, [[밥점줘](https://github.com/INU-BJJ)]  개발 2024.10 ~ 진행중
-- 생생한 향수 정보 제공 서비스, [[향모아](https://github.com/HMOAA/HMOA_iOS)]  개발 2024.07 ~ 진행중 
+- 생생한 향수 정보 제공 서비스, [[향모아](https://github.com/HMOAA/HMOA_iOS)]  개발 2024.07 ~ 2024.12 
 - AI 기반 가족 소통 유도 서비스, [[한 걸음](https://github.com/ForOneStep)] 개발 🏆 2023.09 ~ 2023.12
